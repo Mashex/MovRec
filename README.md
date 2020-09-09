@@ -28,5 +28,7 @@ These features are used to reconstruct the input, which will predict the ratings
 
 ## References
 [Restricted Boltzmann Machines — Simplified](https://towardsdatascience.com/restricted-boltzmann-machines-simplified-eab1e5878976)
+
 [Restricted Boltzmann Machine Creation as Recommendation System](https://towardsdatascience.com/restricted-boltzmann-machine-how-to-create-a-recommendation-system-for-movie-review-45599a406deb)
+
 [DeepLearning.net](http://deeplearning.net/tutorial/rbm.html)
